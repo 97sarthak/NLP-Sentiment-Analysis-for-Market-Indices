@@ -167,4 +167,3 @@ The script will print the Mean Squared Error (MSE) of the model and display a pl
 4. Use more advanced NLP models like BERT or RoBERTa for sentiment analysis. These models can capture more nuanced sentiment and context compared to VADER.
 5. Include additional features such as trading volume, market volatility indices (VIX), and macroeconomic indicators (interest rates, unemployment rates).
 6. Time Series Analysis: Implement time series forecasting methods like ARIMA, LSTM, or Prophet to model stock price movements more accurately.
-7. 
